@@ -5,7 +5,7 @@
 <TR> <TD WIDTH=30%> Student:
      <TD WIDTH=10%> &nbsp;
      <TD WIDTH=30%> Mark:
-     <TD WIDTH=10%> /20
+     <TD WIDTH=10%> 19.5/20
 
 <TR> <TD COLSPAN=4> &nbsp;
 <TR> <TH ALIGN=LEFT COLSPAN=4> Types - 3
@@ -16,7 +16,7 @@
 <TR> <TD WIDTH=40%> eats, eater, eaten
      <TD WIDTH=10%> [0.5]
      <TD WIDTH=40%> start_of, end_of
-     <TD WIDTH=10%> [0.5]
+     <TD WIDTH=10%> [0.25/0.5]
 <TR> <TD WIDTH=40%> foodchain, complete_foodchain
      <TD WIDTH=10%> [0.5]
      <TD WIDTH=40%> depends
@@ -99,7 +99,7 @@
 <TR> <TD WIDTH=40%>
      <TD WIDTH=10%> 
      <TD WIDTH=40%> Apex predator depends
-     <TD WIDTH=10%> [1.0]
+     <TD WIDTH=10%> [0.75/1.0]
 </TABLE>
 <P>
 <HR><!------------------------------------------------------------------------>
